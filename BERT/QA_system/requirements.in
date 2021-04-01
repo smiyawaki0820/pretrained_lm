@@ -1,0 +1,6 @@
+datasets==1.2.1
+fugashi==1.1.0
+ipadic==1.0.0
+onnx==1.8.1
+onnxruntime==1.6.0
+onnxruntime-tools==1.6.0
