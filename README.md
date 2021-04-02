@@ -32,6 +32,8 @@
 * [ ] VilBERT
 * [ ] VideoBERT
 * [ ] SpeechBERT
+* [ ] CLIP
+  * https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu/2021/03/07/CLIP.html
 
 # References
 * https://elyza-inc.hatenablog.com/entry/2021/03/25/160727
