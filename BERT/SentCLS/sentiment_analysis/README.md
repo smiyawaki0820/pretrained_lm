@@ -1,4 +1,10 @@
-# Sentiment Analysis with BERT
+# Sentiment Analysis
+
+## データセット
+- [主観感情と客観感情の強度推定のための日本語データセット](https://github.com/ids-cv/wrime)
+<img src="https://i.gyazo.com/1b235e24712423a2a0152e117fded5fa.png" title="wrime">
+- [Twitter日本語評判分析データセット](http://www.db.info.gifu-u.ac.jp/data/Data_5d832973308d57446583ed9f)
+
 
 ## 二値分類
 * https://huggingface.co/daigo/bert-base-japanese-sentiment
